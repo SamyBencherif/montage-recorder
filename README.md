@@ -1,7 +1,25 @@
-# Montage Recorder
+# Multiplatform Montage Recorder
 
-This repo contains a small script that I use to record my screen at set
-intervals. Currently it only supports Mac OSX.
+Montage Recorderer is a small script used to record the screen at set intervals. 
+
+This version was forked from the original: https://github.com/cdata/montage-recorder
+
+The original version only supports MacOS. The only difference here is that folders 
+are used to keep different variants of the script for different platforms. The first 
+new platform is XFCE Desktop.
+
+## Platform
+
+MacOS is an operating system, which is usually what people mean when they say
+"platform". XFCE however is a desktop window manager (like explorer.exe for
+windows). XFCE runs on a number of operating systems, such as Debian and
+Xubuntu, and FreeBSD. In general, "platform", in this case, refers to a unit
+of software that provides its own way to take a screenshot via command-line.
+
+## Support
+
+ - MacOS
+ - XFCE-Desktop
 
 ## Usage
 
